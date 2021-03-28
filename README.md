@@ -4,7 +4,7 @@ Just a dashboard I created out of boredom on a sunday to visualize my progress s
 
 ## Link to the Dashboad:
 
-https://judesaviodash.imfast.io/Dashboard/
+https://dashboard-pi-ten.vercel.app/
 
 ## More Ideas to implement:
 
